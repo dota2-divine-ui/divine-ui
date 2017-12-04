@@ -1,0 +1,7 @@
+/vpk_list.txt
+*.py
+*.php
+/server_log.txt
+/rich_presence_persistent_data.txt
+*.tmp
+*.soc
