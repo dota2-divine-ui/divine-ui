@@ -5,3 +5,4 @@
 /rich_presence_persistent_data.txt
 *.tmp
 *.soc
+/panorama_debugger.cfg
