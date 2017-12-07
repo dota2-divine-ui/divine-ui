@@ -6,3 +6,4 @@
 *.tmp
 *.soc
 /panorama_debugger.cfg
+/replays/
