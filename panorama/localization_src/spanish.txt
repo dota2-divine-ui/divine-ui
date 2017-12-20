@@ -64,4 +64,5 @@
     "DU_CustomGamesTop" "Mejores:"
     "DU_CustomGamesRandom" "Al azar:"
     "DU_CustomGamesMore" "MÁS JUEGOS DE FROSTIVUS!"
+    "DU_TooltipDivineUI" "Acerca de Divine UI. Si este icono se ilumina y baila ¡hay una nueva versión disponible!"
 }
