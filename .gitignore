@@ -1,3 +1,8 @@
+/panorama_debugger.cfg
+/replays/
+/cfg/
+/screenshots/
+/network_measurement.txt
 /vpk_list.txt
 *.py
 *.php
@@ -5,6 +10,5 @@
 /rich_presence_persistent_data.txt
 *.tmp
 *.soc
-/panorama_debugger.cfg
-/replays/
-/cfg/
+*.cache
+*.toc
