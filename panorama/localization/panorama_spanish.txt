@@ -197,7 +197,7 @@
 	"DU_ProfileLoadingServer" "Obteniendo información de OpenDota/Dotabuff, esto puede tardar un momento..."
 	"DU_ProfileLoadingOutdated" "Información desactualizada, actualizando en segundo plano..."
 	"DU_ShowcaseSelectSetTitle" "Selecciona un set para tu héroe"
-	"DU_ShowcaseSelectSetDescription" "Asegurate de seleccionar solamente <b>sets completos</b>, los sets personalizados aún no son admitidos.<br><br>Si no quieres un set, selecciona el <b>predeterminado</b>.<br>"
+	"DU_ShowcaseSelectSetDescription" "Selecciona el set que deseas presumir, abre la lista de sets (como si te lo fueras a cambiar) y selecciona un <b>set completo</b>. Los set personalizados aún no son aceptados.<br><br>Si no quieres un set, selecciona el <b>predeterminado</b>.<br>"
 	"DU_TooltipWinsOf" " victorias de "
 	"DU_TooltipMatches" "partidas"
 	"DU_TooltipDefeats" "derrotas"
@@ -207,4 +207,6 @@
 	"DU_CustomGamesMore" "MÁS JUEGOS DE FROSTIVUS!"
 	"DU_TooltipDivineUI" "Acerca de Divine UI. Si este icono se ilumina y baila ¡hay una nueva versión disponible!"
 	"DU_StatsUsers" "USUARIOS DE DIVINE UI"
+	"DU_Invalid" "Invalido"
+	"DU_InvalidSetMessage" "Lo sentimos pero no es posible usar un set personalizado, por favor selecciona un <b>set completo</b>. Si este no es un set personalizado y se trata de un error, por favor ¡reportalo!"
 }
